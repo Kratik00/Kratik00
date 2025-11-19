@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2300&color=A3FF00&center=true&vCenter=true&width=900&size=32&lines=LUCIFER;Automation+Engineer;Backend+Developer;Reverse+Engineering+%7C+API+Debugging;Python+%7C+Async+Systems+%7C+Tooling" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2300&color=A3FF00&center=true&vCenter=true&width=900&size=32&lines=LUCIFER;Automation+Engineer;Backend+Developer;Reverse+Engineering+%7C+API+Debugging;Python+%7C+Tooling" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <h1 align="center">Kratik — Software & Automation Engineer</h1>
-<p align="center">Python • Backend • Async Systems • Reverse Engineering</p>
+<p align="center">Python • Backend • Reverse Engineering</p>
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🖥️ Minimal Terminal Visual
+## 🖥️ Terminal Visual
 <p align="center">
   <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" width="720" />
 </p>
