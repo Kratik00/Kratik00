@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F600FF">
   </a>
 
-  <a href="https://linkedin.com/in/kratik">
+  <a href="https://linkedin.com/in/kratikkumar">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFF0">
   </a>
 
