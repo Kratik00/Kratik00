@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=00FFAE">
   </a>
 
-  <a href="https://instagram.com/anonymous_0_error">
+  <a href="https://instagram.com/mr._kratik">
     <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=F600FF">
   </a>
 
